@@ -1,0 +1,13 @@
+{
+  "timestamp_utc": "2026-10-05T12:51:32.893831+00:00",
+  "python": "3.13.11 | packaged by Anaconda, Inc. | (main, Dec 10 2025, 21:21:58) [MSC v.1929 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "executable": "E:\\Miniconda3\\python.exe",
+  "numpy": "2.4.3",
+  "pandas": "3.0.6",
+  "sklearn": "1.9.1",
+  "opencv": "5.0.0",
+  "torch": "2.14.1+cpu",
+  "cuda_available": false,
+  "cuda_version": null
+}
