@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hamvcc-large-dataset-research"
+version = "1.2.1"
+description = "Scalable, reproducible HAMV-CC archive research pipeline derived from the supplied research notebook."
+requires-python = ">=3.9"
+
+[tool.setuptools.packages.find]
+where = ["."]

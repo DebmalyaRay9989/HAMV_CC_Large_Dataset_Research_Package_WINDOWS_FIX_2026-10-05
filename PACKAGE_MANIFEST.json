@@ -1,0 +1,126 @@
+{
+  "package": "HAMV_CC_Large_Dataset_Research_Package",
+  "version": "1.2.1",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "feea4c0dcf4b6bf08945858497594ff6bbd5200574779ec742130ca4ed7f0723",
+      "bytes": 35
+    },
+    {
+      "path": "DATASET_SETUP.md",
+      "sha256": "dd81e711629bcb36463cb00fb6568e0f9f7f741a46a703eeb8d6d61d3204db85",
+      "bytes": 902
+    },
+    {
+      "path": "README.md",
+      "sha256": "5b7b07f7eb4940ceb84b1290d511aa3a9e62ddcebe0232df7d81ecdb4b90070c",
+      "bytes": 5537
+    },
+    {
+      "path": "configs/large_dataset.json",
+      "sha256": "c95785507648c36a0c596d357b4e248a13fa63bcd4b85eec148489dd5c5d003d",
+      "bytes": 2045
+    },
+    {
+      "path": "hamvcc_research/__init__.py",
+      "sha256": "c596b014587cd2e8fb30730925758572ece45f6f5f5641ee4b9353e5d24c09ff",
+      "bytes": 20
+    },
+    {
+      "path": "hamvcc_research/__main__.py",
+      "sha256": "cf7390a2508a0fcad4777a4a629fc5212ab655cb45845975995f835676a834e3",
+      "bytes": 29
+    },
+    {
+      "path": "hamvcc_research/cli.py",
+      "sha256": "8d4db66ed73300fea01d5d888e8484c1156f84f5eacaecf0b3380589a6c8a2f1",
+      "bytes": 571
+    },
+    {
+      "path": "hamvcc_research/clustering.py",
+      "sha256": "50aa433ac712c27311556a92eddbebc2724469d1c97135850ef4ab547f54707e",
+      "bytes": 7273
+    },
+    {
+      "path": "hamvcc_research/config.py",
+      "sha256": "3987c030de0d8e623a712d46848f6cd5b8d88e5e0206691a9c835539bdfc1ebf",
+      "bytes": 2680
+    },
+    {
+      "path": "hamvcc_research/features.py",
+      "sha256": "a8ac25572b3e572f3319f5971f53ec1591cc321134c8532fd84a7477e1de4021",
+      "bytes": 3775
+    },
+    {
+      "path": "hamvcc_research/hamvcc.py",
+      "sha256": "99376ac2375e53526544cf3873d9aa66057fb3cf5b1a7204fb56b6777c3d7582",
+      "bytes": 5287
+    },
+    {
+      "path": "hamvcc_research/pipeline.py",
+      "sha256": "19402bea9eaa0b972ccd48dea141a9949bcc749b9cc3d24ee3ea41b0ffccb696",
+      "bytes": 9810
+    },
+    {
+      "path": "hamvcc_research/provenance.py",
+      "sha256": "5ac62866f84976cf2575e29f0f7336787ff893d2cea14a330151cbf3735608fa",
+      "bytes": 2256
+    },
+    {
+      "path": "hamvcc_research/representations.py",
+      "sha256": "794fc178b0cfab320e9a3acf590ca1a363e6613a6f6bc7b35c155b22ea1570ca",
+      "bytes": 3380
+    },
+    {
+      "path": "hamvcc_research/ssl.py",
+      "sha256": "824a2392dafc5ed8c604620ef3d00d993001f83498004950ccb2f520b02503bc",
+      "bytes": 2419
+    },
+    {
+      "path": "notebooks/HAMV_CC_Large_Dataset_Research.ipynb",
+      "sha256": "a0a88a7bff0e05d3da4698ef8aa0a96de9c5c3a3b86ae55e2495c278259db70c",
+      "bytes": 13218
+    },
+    {
+      "path": "pyproject.toml",
+      "sha256": "cae2c74c4b2c5847aa55709ac6c4df29399b95dcfc770cef0deab581433efb33",
+      "bytes": 344
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "24b0e1b987ec328601bdf0b7b73773d7dd430b48043b2c90ffe420045f6478d7",
+      "bytes": 168
+    },
+    {
+      "path": "scripts/run_research.bat",
+      "sha256": "b0831642ce0921f3829b34954fd063d78705c73b61c22a2dfd51ea6416552e83",
+      "bytes": 78
+    },
+    {
+      "path": "scripts/run_research.ps1",
+      "sha256": "7df63c2f57617ba6a62241429b7895b10b7742e9fad144f82de06206b4999db4",
+      "bytes": 94
+    },
+    {
+      "path": "scripts/run_research.py",
+      "sha256": "e3bda3699d47a876dec887623b0194bc3092244f7b6fa369a3f9963e42cdd10a",
+      "bytes": 166
+    },
+    {
+      "path": "source/HAMV_CC_InDepth_Reproducible_Research_Notebook_Enhanced.pdf",
+      "sha256": "4f7c25d59cf4b3483a9f219dd96c546b7439d9420e7c0fa4842ba06c4b6b0cb8",
+      "bytes": 2903833
+    },
+    {
+      "path": "source/HAMV_CC_InDepth_Reproducible_Research_Notebook_Enhanced_original.ipynb",
+      "sha256": "f731c579a5157ed97e427f8de759543b02aa04238539d14b02bce34d6cac1299",
+      "bytes": 3720583
+    },
+    {
+      "path": "tests/smoke_test.py",
+      "sha256": "2cad1eca56859e656b06e584d92acf9fab588580f3ddc6e3584be4e1cf91d31a",
+      "bytes": 1255
+    }
+  ]
+}
